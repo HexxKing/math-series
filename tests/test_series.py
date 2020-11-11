@@ -60,5 +60,10 @@ def test_sum_series_negative_int():
 
 def test_sum_series_2():
     actual = sum_series(2)
-    expected = "nope"
+    expected = 0
     assert actual == expected 
+
+def test_sum_series_optional_params():
+    actual = sum_series(1,x=2,y=1)
+    expected = 2
+    assert actual == expected
