@@ -1,3 +1,5 @@
+[Github Submission Pull Request](https://github.com/HexxKing/math-series/pull/1)
+
 # Cited Sources
 - Fibonacci code sited from https://www.geeksforgeeks.org/python-program-for-program-for-fibonacci-numbers-2/
   - I edited this code to start the Fibonacci sequence at 0
